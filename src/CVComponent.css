@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* CVComponent.css */
+
+.cv-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 20px;
+}
+
+.toggle-btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.details-container {
+  margin-top: 15px;
+}
