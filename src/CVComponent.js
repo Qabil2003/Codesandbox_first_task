@@ -1,7 +1,7 @@
 // CVComponent.jsx
 
 import React, { useState } from "react";
-import "./CVComponent.css"; // CSS faylı
+import "./CVComponent.css"; 
 
 const CVComponent = () => {
   const [showDetails, setShowDetails] = useState(false);
